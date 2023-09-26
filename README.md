@@ -45,5 +45,5 @@ The course is divided into several modules, each focusing on a specific data str
 To download the repository to your local machine, you need to clone it using:
 
 ```
-https://github.com/FlorianIanculescu/Data-Structures-and-Algorithms-Using-Java.git
+git clone https://github.com/FlorianIanculescu/Data-Structures-and-Algorithms-Using-Java.git
 ```
