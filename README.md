@@ -40,6 +40,10 @@ The course is divided into several modules, each focusing on a specific data str
 - Studying various sorting algorithms, including bubble sort, selection sort, insertion sort, merge sort, quicksort, and heap sort. Implementing these algorithms in Java to perform efficiently when sorting large datasets
 - What’s available in the JDK for storing and sorting data, so I won’t waste time reinventing the wheel
 
+## Certification
+
+Certificate of Completion: [Data Structures and Algorithms: Deep Dive Using Java](https://www.udemy.com/certificate/UC-fd09f9bc-9fd7-45c0-a2e4-307557492192/)
+
 ## Getting Started
 
 To download the repository to your local machine, you need to clone it using:
