@@ -9,7 +9,8 @@ This repository contains the code and resources for the Data Structures and Algo
 
 - [Introduction](#introduction)
 - [Course Content](#course-content)
-- [What I learned](#course-content)
+- [What I learned](#what-i-learned)
+- [Certification](#certification)
 - [Getting Started](#getting-started)
   
 ## Introduction
