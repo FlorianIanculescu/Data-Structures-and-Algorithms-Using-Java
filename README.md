@@ -36,8 +36,8 @@ The course is divided into several modules, each focusing on a specific data str
 
 - The strengths and weaknesses of a variety of data structures, in order to choose the best data structure for data and applications
 - To code an implementation of each data structure, to understand how they work under the covers
-- Many of the algorithms commonly used to sort data, for applications to perform efficiently when sorting large datasets
-- Two of the most important search algorithms
+- Learning about linear search, binary search, and their efficiency. Implementing these algorithms in Java
+- Studying various sorting algorithms, including bubble sort, selection sort, insertion sort, merge sort, quicksort, and heap sort. Implementing these algorithms in Java to perform efficiently when sorting large datasets
 - What’s available in the JDK for storing and sorting data, so I won’t waste time reinventing the wheel
 
 ## Getting Started
